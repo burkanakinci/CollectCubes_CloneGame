@@ -1,0 +1,447 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d1f19be90f4ad34d9f93785fe7421b1, type: 3}
+  m_Name: 2LevelData
+  m_EditorClassIdentifier: 
+  CubeColors:
+  - PixelWidthIndex: 1
+    PixelHeightIndex: 6
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 1
+    PixelHeightIndex: 7
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 1
+    PixelHeightIndex: 8
+    PixelColor: {r: 0.0627451, g: 0.015686275, b: 0, a: 1}
+  - PixelWidthIndex: 1
+    PixelHeightIndex: 9
+    PixelColor: {r: 0.0627451, g: 0.015686275, b: 0, a: 1}
+  - PixelWidthIndex: 1
+    PixelHeightIndex: 10
+    PixelColor: {r: 0.0627451, g: 0.015686275, b: 0, a: 1}
+  - PixelWidthIndex: 2
+    PixelHeightIndex: 5
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 2
+    PixelHeightIndex: 6
+    PixelColor: {r: 0.3647059, g: 0.31764707, b: 0, a: 1}
+  - PixelWidthIndex: 2
+    PixelHeightIndex: 7
+    PixelColor: {r: 0.6666667, g: 0.63529414, b: 0, a: 1}
+  - PixelWidthIndex: 2
+    PixelHeightIndex: 8
+    PixelColor: {r: 0.37254903, g: 0.34117648, b: 0, a: 1}
+  - PixelWidthIndex: 2
+    PixelHeightIndex: 9
+    PixelColor: {r: 0.37254903, g: 0.34117648, b: 0, a: 1}
+  - PixelWidthIndex: 2
+    PixelHeightIndex: 10
+    PixelColor: {r: 0.0627451, g: 0.015686275, b: 0, a: 1}
+  - PixelWidthIndex: 2
+    PixelHeightIndex: 11
+    PixelColor: {r: 0.0627451, g: 0.015686275, b: 0, a: 1}
+  - PixelWidthIndex: 3
+    PixelHeightIndex: 4
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 3
+    PixelHeightIndex: 5
+    PixelColor: {r: 0.3647059, g: 0.31764707, b: 0, a: 1}
+  - PixelWidthIndex: 3
+    PixelHeightIndex: 6
+    PixelColor: {r: 0.96862745, g: 0.9529412, b: 0, a: 1}
+  - PixelWidthIndex: 3
+    PixelHeightIndex: 7
+    PixelColor: {r: 0.96862745, g: 0.9529412, b: 0, a: 1}
+  - PixelWidthIndex: 3
+    PixelHeightIndex: 8
+    PixelColor: {r: 1, g: 1, b: 0, a: 1}
+  - PixelWidthIndex: 3
+    PixelHeightIndex: 9
+    PixelColor: {r: 1, g: 1, b: 0, a: 1}
+  - PixelWidthIndex: 3
+    PixelHeightIndex: 10
+    PixelColor: {r: 1, g: 1, b: 0, a: 1}
+  - PixelWidthIndex: 3
+    PixelHeightIndex: 11
+    PixelColor: {r: 0.37254903, g: 0.34117648, b: 0, a: 1}
+  - PixelWidthIndex: 3
+    PixelHeightIndex: 12
+    PixelColor: {r: 0.0627451, g: 0.015686275, b: 0, a: 1}
+  - PixelWidthIndex: 4
+    PixelHeightIndex: 3
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 4
+    PixelHeightIndex: 4
+    PixelColor: {r: 0.3882353, g: 0.34901962, b: 0.0627451, a: 1}
+  - PixelWidthIndex: 4
+    PixelHeightIndex: 5
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 4
+    PixelHeightIndex: 6
+    PixelColor: {r: 0.5921569, g: 0.56078434, b: 0.039215688, a: 1}
+  - PixelWidthIndex: 4
+    PixelHeightIndex: 7
+    PixelColor: {r: 0.79607844, g: 0.77254903, b: 0.019607844, a: 1}
+  - PixelWidthIndex: 4
+    PixelHeightIndex: 8
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 4
+    PixelHeightIndex: 9
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 4
+    PixelHeightIndex: 10
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 4
+    PixelHeightIndex: 11
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 4
+    PixelHeightIndex: 12
+    PixelColor: {r: 0.34117648, g: 0.31764707, b: 0, a: 1}
+  - PixelWidthIndex: 4
+    PixelHeightIndex: 13
+    PixelColor: {r: 0.03137255, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 5
+    PixelHeightIndex: 2
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 5
+    PixelHeightIndex: 3
+    PixelColor: {r: 0.37254903, g: 0.33333334, b: 0, a: 1}
+  - PixelWidthIndex: 5
+    PixelHeightIndex: 4
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 5
+    PixelHeightIndex: 5
+    PixelColor: {r: 0.3882353, g: 0.34901962, b: 0.0627451, a: 1}
+  - PixelWidthIndex: 5
+    PixelHeightIndex: 6
+    PixelColor: {r: 0.3882353, g: 0.34901962, b: 0.0627451, a: 1}
+  - PixelWidthIndex: 5
+    PixelHeightIndex: 7
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 5
+    PixelHeightIndex: 8
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 5
+    PixelHeightIndex: 9
+    PixelColor: {r: 0.22352941, g: 0.1882353, b: 0.09411765, a: 1}
+  - PixelWidthIndex: 5
+    PixelHeightIndex: 10
+    PixelColor: {r: 0.48235294, g: 0.4509804, b: 0.0627451, a: 1}
+  - PixelWidthIndex: 5
+    PixelHeightIndex: 11
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 5
+    PixelHeightIndex: 12
+    PixelColor: {r: 0.96862745, g: 0.9529412, b: 0, a: 1}
+  - PixelWidthIndex: 5
+    PixelHeightIndex: 13
+    PixelColor: {r: 0.34117648, g: 0.31764707, b: 0, a: 1}
+  - PixelWidthIndex: 5
+    PixelHeightIndex: 14
+    PixelColor: {r: 0.03137255, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 6
+    PixelHeightIndex: 2
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 6
+    PixelHeightIndex: 3
+    PixelColor: {r: 1, g: 1, b: 0, a: 1}
+  - PixelWidthIndex: 6
+    PixelHeightIndex: 4
+    PixelColor: {r: 0.5921569, g: 0.56078434, b: 0.039215688, a: 1}
+  - PixelWidthIndex: 6
+    PixelHeightIndex: 5
+    PixelColor: {r: 0.3882353, g: 0.34901962, b: 0.0627451, a: 1}
+  - PixelWidthIndex: 6
+    PixelHeightIndex: 6
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 6
+    PixelHeightIndex: 7
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 6
+    PixelHeightIndex: 8
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 6
+    PixelHeightIndex: 9
+    PixelColor: {r: 0.22352941, g: 0.1882353, b: 0.09411765, a: 1}
+  - PixelWidthIndex: 6
+    PixelHeightIndex: 10
+    PixelColor: {r: 0.48235294, g: 0.4509804, b: 0.0627451, a: 1}
+  - PixelWidthIndex: 6
+    PixelHeightIndex: 11
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 6
+    PixelHeightIndex: 12
+    PixelColor: {r: 0.96862745, g: 0.9529412, b: 0, a: 1}
+  - PixelWidthIndex: 6
+    PixelHeightIndex: 13
+    PixelColor: {r: 0.654902, g: 0.63529414, b: 0, a: 1}
+  - PixelWidthIndex: 6
+    PixelHeightIndex: 14
+    PixelColor: {r: 0.03137255, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 7
+    PixelHeightIndex: 2
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 7
+    PixelHeightIndex: 3
+    PixelColor: {r: 1, g: 1, b: 0, a: 1}
+  - PixelWidthIndex: 7
+    PixelHeightIndex: 4
+    PixelColor: {r: 0.3882353, g: 0.34901962, b: 0.0627451, a: 1}
+  - PixelWidthIndex: 7
+    PixelHeightIndex: 5
+    PixelColor: {r: 0.79607844, g: 0.77254903, b: 0.019607844, a: 1}
+  - PixelWidthIndex: 7
+    PixelHeightIndex: 6
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 7
+    PixelHeightIndex: 7
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 7
+    PixelHeightIndex: 8
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 7
+    PixelHeightIndex: 9
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 7
+    PixelHeightIndex: 10
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 7
+    PixelHeightIndex: 11
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 7
+    PixelHeightIndex: 12
+    PixelColor: {r: 0.96862745, g: 0.9529412, b: 0, a: 1}
+  - PixelWidthIndex: 7
+    PixelHeightIndex: 13
+    PixelColor: {r: 0.654902, g: 0.63529414, b: 0, a: 1}
+  - PixelWidthIndex: 7
+    PixelHeightIndex: 14
+    PixelColor: {r: 0.03137255, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 8
+    PixelHeightIndex: 2
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 8
+    PixelHeightIndex: 3
+    PixelColor: {r: 1, g: 1, b: 0, a: 1}
+  - PixelWidthIndex: 8
+    PixelHeightIndex: 4
+    PixelColor: {r: 0.3882353, g: 0.34901962, b: 0.0627451, a: 1}
+  - PixelWidthIndex: 8
+    PixelHeightIndex: 5
+    PixelColor: {r: 0.79607844, g: 0.77254903, b: 0.019607844, a: 1}
+  - PixelWidthIndex: 8
+    PixelHeightIndex: 6
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 8
+    PixelHeightIndex: 7
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 8
+    PixelHeightIndex: 8
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 8
+    PixelHeightIndex: 9
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 8
+    PixelHeightIndex: 10
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 8
+    PixelHeightIndex: 11
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 8
+    PixelHeightIndex: 12
+    PixelColor: {r: 0.96862745, g: 0.9529412, b: 0, a: 1}
+  - PixelWidthIndex: 8
+    PixelHeightIndex: 13
+    PixelColor: {r: 0.654902, g: 0.63529414, b: 0, a: 1}
+  - PixelWidthIndex: 8
+    PixelHeightIndex: 14
+    PixelColor: {r: 0.03137255, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 9
+    PixelHeightIndex: 2
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 9
+    PixelHeightIndex: 3
+    PixelColor: {r: 1, g: 1, b: 0, a: 1}
+  - PixelWidthIndex: 9
+    PixelHeightIndex: 4
+    PixelColor: {r: 0.5921569, g: 0.56078434, b: 0.039215688, a: 1}
+  - PixelWidthIndex: 9
+    PixelHeightIndex: 5
+    PixelColor: {r: 0.3882353, g: 0.34901962, b: 0.0627451, a: 1}
+  - PixelWidthIndex: 9
+    PixelHeightIndex: 6
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 9
+    PixelHeightIndex: 7
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 9
+    PixelHeightIndex: 8
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 9
+    PixelHeightIndex: 9
+    PixelColor: {r: 0.22352941, g: 0.1882353, b: 0.09411765, a: 1}
+  - PixelWidthIndex: 9
+    PixelHeightIndex: 10
+    PixelColor: {r: 0.48235294, g: 0.4509804, b: 0.0627451, a: 1}
+  - PixelWidthIndex: 9
+    PixelHeightIndex: 11
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 9
+    PixelHeightIndex: 12
+    PixelColor: {r: 0.96862745, g: 0.9529412, b: 0, a: 1}
+  - PixelWidthIndex: 9
+    PixelHeightIndex: 13
+    PixelColor: {r: 0.654902, g: 0.63529414, b: 0, a: 1}
+  - PixelWidthIndex: 9
+    PixelHeightIndex: 14
+    PixelColor: {r: 0.03137255, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 10
+    PixelHeightIndex: 2
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 10
+    PixelHeightIndex: 3
+    PixelColor: {r: 0.37254903, g: 0.33333334, b: 0, a: 1}
+  - PixelWidthIndex: 10
+    PixelHeightIndex: 4
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 10
+    PixelHeightIndex: 5
+    PixelColor: {r: 0.3882353, g: 0.34901962, b: 0.0627451, a: 1}
+  - PixelWidthIndex: 10
+    PixelHeightIndex: 6
+    PixelColor: {r: 0.3882353, g: 0.34901962, b: 0.0627451, a: 1}
+  - PixelWidthIndex: 10
+    PixelHeightIndex: 7
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 10
+    PixelHeightIndex: 8
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 10
+    PixelHeightIndex: 9
+    PixelColor: {r: 0.22352941, g: 0.1882353, b: 0.09411765, a: 1}
+  - PixelWidthIndex: 10
+    PixelHeightIndex: 10
+    PixelColor: {r: 0.48235294, g: 0.4509804, b: 0.0627451, a: 1}
+  - PixelWidthIndex: 10
+    PixelHeightIndex: 11
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 10
+    PixelHeightIndex: 12
+    PixelColor: {r: 0.96862745, g: 0.9529412, b: 0, a: 1}
+  - PixelWidthIndex: 10
+    PixelHeightIndex: 13
+    PixelColor: {r: 0.34117648, g: 0.31764707, b: 0, a: 1}
+  - PixelWidthIndex: 10
+    PixelHeightIndex: 14
+    PixelColor: {r: 0.03137255, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 11
+    PixelHeightIndex: 3
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 11
+    PixelHeightIndex: 4
+    PixelColor: {r: 0.3882353, g: 0.34901962, b: 0.0627451, a: 1}
+  - PixelWidthIndex: 11
+    PixelHeightIndex: 5
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 11
+    PixelHeightIndex: 6
+    PixelColor: {r: 0.5921569, g: 0.56078434, b: 0.039215688, a: 1}
+  - PixelWidthIndex: 11
+    PixelHeightIndex: 7
+    PixelColor: {r: 0.79607844, g: 0.77254903, b: 0.019607844, a: 1}
+  - PixelWidthIndex: 11
+    PixelHeightIndex: 8
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 11
+    PixelHeightIndex: 9
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 11
+    PixelHeightIndex: 10
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 11
+    PixelHeightIndex: 11
+    PixelColor: {r: 1, g: 0.9843137, b: 0, a: 1}
+  - PixelWidthIndex: 11
+    PixelHeightIndex: 12
+    PixelColor: {r: 0.34117648, g: 0.31764707, b: 0, a: 1}
+  - PixelWidthIndex: 11
+    PixelHeightIndex: 13
+    PixelColor: {r: 0.03137255, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 12
+    PixelHeightIndex: 4
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 12
+    PixelHeightIndex: 5
+    PixelColor: {r: 0.3647059, g: 0.31764707, b: 0, a: 1}
+  - PixelWidthIndex: 12
+    PixelHeightIndex: 6
+    PixelColor: {r: 0.96862745, g: 0.9529412, b: 0, a: 1}
+  - PixelWidthIndex: 12
+    PixelHeightIndex: 7
+    PixelColor: {r: 0.96862745, g: 0.9529412, b: 0, a: 1}
+  - PixelWidthIndex: 12
+    PixelHeightIndex: 8
+    PixelColor: {r: 1, g: 1, b: 0, a: 1}
+  - PixelWidthIndex: 12
+    PixelHeightIndex: 9
+    PixelColor: {r: 1, g: 1, b: 0, a: 1}
+  - PixelWidthIndex: 12
+    PixelHeightIndex: 10
+    PixelColor: {r: 1, g: 1, b: 0, a: 1}
+  - PixelWidthIndex: 12
+    PixelHeightIndex: 11
+    PixelColor: {r: 0.37254903, g: 0.34117648, b: 0, a: 1}
+  - PixelWidthIndex: 12
+    PixelHeightIndex: 12
+    PixelColor: {r: 0.0627451, g: 0.015686275, b: 0, a: 1}
+  - PixelWidthIndex: 13
+    PixelHeightIndex: 5
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 13
+    PixelHeightIndex: 6
+    PixelColor: {r: 0.3647059, g: 0.31764707, b: 0, a: 1}
+  - PixelWidthIndex: 13
+    PixelHeightIndex: 7
+    PixelColor: {r: 0.6666667, g: 0.63529414, b: 0, a: 1}
+  - PixelWidthIndex: 13
+    PixelHeightIndex: 8
+    PixelColor: {r: 0.37254903, g: 0.34117648, b: 0, a: 1}
+  - PixelWidthIndex: 13
+    PixelHeightIndex: 9
+    PixelColor: {r: 0.37254903, g: 0.34117648, b: 0, a: 1}
+  - PixelWidthIndex: 13
+    PixelHeightIndex: 10
+    PixelColor: {r: 0.0627451, g: 0.015686275, b: 0, a: 1}
+  - PixelWidthIndex: 13
+    PixelHeightIndex: 11
+    PixelColor: {r: 0.0627451, g: 0.015686275, b: 0, a: 1}
+  - PixelWidthIndex: 14
+    PixelHeightIndex: 6
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 14
+    PixelHeightIndex: 7
+    PixelColor: {r: 0.0627451, g: 0, b: 0, a: 1}
+  - PixelWidthIndex: 14
+    PixelHeightIndex: 8
+    PixelColor: {r: 0.0627451, g: 0.015686275, b: 0, a: 1}
+  - PixelWidthIndex: 14
+    PixelHeightIndex: 9
+    PixelColor: {r: 0.0627451, g: 0.015686275, b: 0, a: 1}
+  - PixelWidthIndex: 14
+    PixelHeightIndex: 10
+    PixelColor: {r: 0.0627451, g: 0.015686275, b: 0, a: 1}
+  UseTimer: 0
+  TimeSecondCount: 0
+  UseOpponent: 1
+  ObstaclePositions:
+  - {x: -14.5, y: -2.3, z: -16}
+  ImageWidth: 16
